@@ -56,9 +56,3 @@ SafeConnect je jednoduchý informační systém navržený pro bezpečnou regist
   - změny hesla  
   - úpravy profilu  
   - administrátorské zásahy
-
----
-
-## Odevzdání
-Součástí odevzdání bude PDF soubor obsahující **klikatelný odkaz na repozitář GitHub**, kde bude tento README.md umístěn.
-
