@@ -56,3 +56,6 @@ SafeConnect je jednoduchý informační systém navržený pro bezpečnou regist
   - změny hesla  
   - úpravy profilu  
   - administrátorské zásahy
+
+- **Odkaz ná návrh ve figmě:**  
+  https://www.figma.com/design/PPfZNge6vPPvYtt8hb9V5j/Untitled?node-id=0-1&p=f
