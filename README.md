@@ -53,7 +53,7 @@ SafeConnect je jednoduchý informační systém navržený pro bezpečnou regist
   - ověřovací tokeny pro aktivaci účtu  
   - doby platnosti tokenů
 
-- **Logy přístupů a událostí:**  
+- **Logy přístupů a událostí:**
   - neúspěšné pokusy o přihlášení  
   - změny hesla  
   - úpravy profilu  
@@ -61,3 +61,6 @@ SafeConnect je jednoduchý informační systém navržený pro bezpečnou regist
 
 - **Odkaz ná návrh ve figmě:**  
   https://www.figma.com/design/PPfZNge6vPPvYtt8hb9V5j/Untitled?node-id=0-1&p=f
+
+- **Obrázek informačního systému:**
+  <img width="2409" height="786" alt="informacni system" src="https://github.com/user-attachments/assets/f08a0567-8b5d-4b98-bce7-d5b347526e79" />
