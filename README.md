@@ -38,9 +38,11 @@ SafeConnect je jednoduchý informační systém navržený pro bezpečnou regist
 ---
 
 ## Spravovaná data (Příklady)
-- **Uživatelé:**  
+- **Uživatelé:**
+  - registrace
   - email  
-  - hash hesla  
+  - hash hesla
+  - změna hesla
   - stav ověření emailu  
   - datum registrace  
   - profilové informace (přezdívka, avatar, bio)  
